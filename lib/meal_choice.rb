@@ -4,3 +4,4 @@ def meal_choice(veg1, veg2, protein = 'meat')
   puts "What a nutritioius meal!"
   puts meal
 end
+meal_choice("broccoli", "carrots")
